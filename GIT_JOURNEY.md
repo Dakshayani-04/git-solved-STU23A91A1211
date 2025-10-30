@@ -6,7 +6,7 @@
 
 - Name: Dakshayani Kale
 - Student ID: 23A91A1211
-- Repository: https://github.com/Dakshayani-04/git-solved-STU23A91A1211.git
+- Repository: https://github.com/Dakshayani-04/git-solved-23A91A1211.git
 - Date Started: 29-10-2025
 - Date Completed: 29-10-2025
 
